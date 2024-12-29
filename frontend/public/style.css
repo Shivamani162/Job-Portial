@@ -1,0 +1,62 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  /* Header */
+  header {
+    background-color: #0077ff;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  
+  /* Job Listings */
+  .job-listing {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .job-listing h2 {
+    margin: 0 0 1rem 0;
+    color: #0077ff;
+  }
+  
+  .job-listing p {
+    margin: 0.5rem 0;
+  }
+  
+  /* Buttons */
+  button {
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #0077ff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005bb5;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    background-color: #f4f4f9;
+    color: #555;
+  }
+  
